@@ -1,0 +1,29 @@
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+ <title>Oval</title>
+ <desc>Created with Sketch.</desc>
+ <defs>
+  <circle r="7" cy="181" cx="227" id="path-1"/>
+  <filter id="filter-2" filterUnits="objectBoundingBox" height="214.3%" width="214.3%" y="-42.9%" x="-57.1%">
+   <feGaussianBlur stdDeviation="2"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="Page-1">
+   <g fill-rule="nonzero" id="Artboard">
+    <g id="Oval">
+     <use id="svg_1" x="-215" y="-171" xlink:href="#path-1" filter="url(#filter-2)" fill="black"/>
+     <use id="svg_2" x="-215" y="-171" xlink:href="#path-1" fill="#73D002" stroke-width="2" stroke="#FFFFFF"/>
+    </g>
+   </g>
+  </g>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" y2="14.931636" x2="15.937493" y1="5.681658" x1="7.687512" stroke-width="1.5" fill="none"/>
+  <line stroke="#ffffff" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_6" y2="15.056635" x2="16.812491" y1="5.681658" x1="7.687512" stroke-width="1.5" fill="none"/>
+  <line stroke="#ffffff" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_7" y2="14.681636" x2="7.312513" y1="5.681658" x1="16.312491" stroke-width="1.5" fill="none"/>
+ </g>
+</svg>
